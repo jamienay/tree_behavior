@@ -1,0 +1,3 @@
+Modified version of CakePHP's core Tree Behavior that implements better scope limitations.
+For more information:
+http://jamienay.com/2010/01/adding-better-scope-limiting-to-cakephp-1-2s-tree-behavior/
